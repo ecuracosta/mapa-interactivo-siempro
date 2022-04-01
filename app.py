@@ -5,7 +5,6 @@ import folium
 import webbrowser 
 from folium import plugins
 from flask import Flask
-import requestsapp = Flask(__name__)
 
 app = Flask(__name__)
 
