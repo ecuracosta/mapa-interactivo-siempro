@@ -46,7 +46,7 @@ def index():
 
 	folium.LayerControl().add_to(mapa)
 
-    return mapa._repr_html_()
+    	return mapa._repr_html_()
 
 if __name__ == "__main__":
     app.run()
