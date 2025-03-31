@@ -7,7 +7,6 @@ This project is a web application built with **Flask**, **Folium**, and **GeoPan
 
 The geographic data comes from the **Instituto Geográfico Nacional (IGN)** of Argentina and is processed using open-source Python libraries.
 
----
 
 ## 🚀 Features
 
@@ -17,7 +16,6 @@ The geographic data comes from the **Instituto Geográfico Nacional (IGN)** of A
 - 🧭 Integration of GeoPandas for spatial data handling
 - 🗂️ Easy to add or update layers and metadata
 
----
 
 ## 🛠️ Tech Stack
 
@@ -27,7 +25,6 @@ The geographic data comes from the **Instituto Geográfico Nacional (IGN)** of A
 - **Pandas** – for data handling
 - **Shapely** – for geometric operations
 
----
 
 ## 🗃️ Data Sources
 
